@@ -1,7 +1,7 @@
 {
   "name": "obsidian",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A minimal and simple theme for atom",
   "repository": "https://github.com/itsnauman/Obsidian",
   "license": "MIT",
