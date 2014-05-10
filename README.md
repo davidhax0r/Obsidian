@@ -1,5 +1,5 @@
-# Obsidian Theme
+# Obsidian For Atom
 
-A minimal and simple theme for atom
+A dark and simple color scheme for atom
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+<a href="http://imgur.com/seneV2u"><img src="http://i.imgur.com/seneV2u.png" title="Hosted by imgur.com" /></a>
