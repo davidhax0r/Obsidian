@@ -1,0 +1,11 @@
+{
+  "name": "obsidian",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A minimal and simple theme for atom",
+  "repository": "https://github.com/atom/obsidian",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
